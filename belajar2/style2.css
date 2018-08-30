@@ -1,0 +1,56 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #fafafa;
+  font-family: verdana, sans;
+  font-size: 14px;
+}
+
+#header{
+  background-color: #abcdef;
+  margin:0;
+  padding: 10px;
+}
+#header img{
+    float: left;
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    margin-right: 10px;
+  }
+#header h1{
+  color: red;
+  padding: 10px;
+  margin-left: : 10px;
+}
+#header p{
+  color: blue;
+  font-style: italic;
+}
+
+#body{
+  clear: both;
+}
+
+#body #sidebar{
+  float: left;
+  width: 30%;
+  background-color: #fafaaa;
+
+}
+#body #sidebar ul{
+}
+#body #sidebar ul li{
+}
+#body #sidebar ul li{
+}
+#body #sidebar ul li a:hover{
+}
+#body #konten{
+  float: left;
+  width: 70%;
+  background-color: #fdfdfd;
+}
+#body #konten #artikel{
+
+}

@@ -1,0 +1,37 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #fafafa;
+}
+
+.wrap {
+      width: 410px;
+      overflow: hidden;
+      margin: auto;
+      margin-top: 170px;
+      background: #fff;
+      border: 1px solid silver;
+      padding: 20px;
+}
+
+.wrap h2{
+  text-align: center;
+  margin-bottom: 30px;
+
+}
+.wrap input{
+      width: 400px;
+      height: 35px;
+      margin-bottom: 10px;
+      margin-bottom: 10px;
+      border-radius: 3px;
+}
+
+.wrap .btn-login{
+  width: 400px;
+  height: 35px;
+  background-color: #3498db;
+  color: #fff;
+
+}
